@@ -1,0 +1,2 @@
+# termz
+My terminal theme
